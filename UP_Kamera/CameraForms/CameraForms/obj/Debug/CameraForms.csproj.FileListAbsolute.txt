@@ -1,0 +1,30 @@
+C:\Users\Piotr Borowski\source\repos\CameraForms\CameraForms\bin\Debug\CameraForms.exe.config
+C:\Users\Piotr Borowski\source\repos\CameraForms\CameraForms\bin\Debug\CameraForms.exe
+C:\Users\Piotr Borowski\source\repos\CameraForms\CameraForms\bin\Debug\CameraForms.pdb
+C:\Users\Piotr Borowski\source\repos\CameraForms\CameraForms\obj\Debug\CameraForms.csprojAssemblyReference.cache
+C:\Users\Piotr Borowski\source\repos\CameraForms\CameraForms\obj\Debug\CameraForms.Properties.Resources.resources
+C:\Users\Piotr Borowski\source\repos\CameraForms\CameraForms\obj\Debug\CameraForms.csproj.GenerateResource.cache
+C:\Users\Piotr Borowski\source\repos\CameraForms\CameraForms\obj\Debug\CameraForms.csproj.CoreCompileInputs.cache
+C:\Users\Piotr Borowski\source\repos\CameraForms\CameraForms\obj\Debug\CameraForms.exe
+C:\Users\Piotr Borowski\source\repos\CameraForms\CameraForms\obj\Debug\CameraForms.pdb
+C:\Users\Piotr Borowski\source\repos\CameraForms\CameraForms\obj\Debug\CameraForms.Form1.resources
+C:\Users\DELL\Downloads\UP-Camera-master\UP-Camera-master\CameraForms\CameraForms\bin\Debug\CameraForms.exe.config
+C:\Users\DELL\Downloads\UP-Camera-master\UP-Camera-master\CameraForms\CameraForms\bin\Debug\CameraForms.exe
+C:\Users\DELL\Downloads\UP-Camera-master\UP-Camera-master\CameraForms\CameraForms\bin\Debug\CameraForms.pdb
+C:\Users\DELL\Downloads\UP-Camera-master\UP-Camera-master\CameraForms\CameraForms\obj\Debug\CameraForms.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\UP-Camera-master\UP-Camera-master\CameraForms\CameraForms\obj\Debug\CameraForms.Form1.resources
+C:\Users\DELL\Downloads\UP-Camera-master\UP-Camera-master\CameraForms\CameraForms\obj\Debug\CameraForms.Properties.Resources.resources
+C:\Users\DELL\Downloads\UP-Camera-master\UP-Camera-master\CameraForms\CameraForms\obj\Debug\CameraForms.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\UP-Camera-master\UP-Camera-master\CameraForms\CameraForms\obj\Debug\CameraForms.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\UP-Camera-master\UP-Camera-master\CameraForms\CameraForms\obj\Debug\CameraForms.exe
+C:\Users\DELL\Downloads\UP-Camera-master\UP-Camera-master\CameraForms\CameraForms\obj\Debug\CameraForms.pdb
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Kamera\CameraForms\CameraForms\bin\Debug\CameraForms.exe.config
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Kamera\CameraForms\CameraForms\bin\Debug\CameraForms.exe
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Kamera\CameraForms\CameraForms\bin\Debug\CameraForms.pdb
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Kamera\CameraForms\CameraForms\obj\Debug\CameraForms.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Kamera\CameraForms\CameraForms\obj\Debug\CameraForms.Form1.resources
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Kamera\CameraForms\CameraForms\obj\Debug\CameraForms.Properties.Resources.resources
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Kamera\CameraForms\CameraForms\obj\Debug\CameraForms.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Kamera\CameraForms\CameraForms\obj\Debug\CameraForms.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Kamera\CameraForms\CameraForms\obj\Debug\CameraForms.exe
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Kamera\CameraForms\CameraForms\obj\Debug\CameraForms.pdb

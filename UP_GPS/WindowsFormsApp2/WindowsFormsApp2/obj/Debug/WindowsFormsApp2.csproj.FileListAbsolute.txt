@@ -1,0 +1,28 @@
+C:\Users\DELL\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\DELL\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\DELL\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\DELL\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Ghostware.NMEAParser.dll
+C:\Users\DELL\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\DELL\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\DELL\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\DELL\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\DELL\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\DELL\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\DELL\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_GPS\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_GPS\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_GPS\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_GPS\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Ghostware.NMEAParser.dll
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_GPS\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_GPS\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_GPS\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_GPS\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_GPS\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_GPS\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_GPS\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_GPS\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_GPS\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_GPS\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

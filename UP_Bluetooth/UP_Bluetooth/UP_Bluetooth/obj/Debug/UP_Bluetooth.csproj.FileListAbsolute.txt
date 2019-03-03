@@ -1,0 +1,28 @@
+C:\Users\DELL\source\repos\UP_Bluetooth\UP_Bluetooth\bin\Debug\UP_Bluetooth.exe.config
+C:\Users\DELL\source\repos\UP_Bluetooth\UP_Bluetooth\bin\Debug\UP_Bluetooth.exe
+C:\Users\DELL\source\repos\UP_Bluetooth\UP_Bluetooth\bin\Debug\UP_Bluetooth.pdb
+C:\Users\DELL\source\repos\UP_Bluetooth\UP_Bluetooth\obj\Debug\UP_Bluetooth.csprojResolveAssemblyReference.cache
+C:\Users\DELL\source\repos\UP_Bluetooth\UP_Bluetooth\obj\Debug\UP_Bluetooth.Properties.Resources.resources
+C:\Users\DELL\source\repos\UP_Bluetooth\UP_Bluetooth\obj\Debug\UP_Bluetooth.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\UP_Bluetooth\UP_Bluetooth\obj\Debug\UP_Bluetooth.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\UP_Bluetooth\UP_Bluetooth\obj\Debug\UP_Bluetooth.exe
+C:\Users\DELL\source\repos\UP_Bluetooth\UP_Bluetooth\obj\Debug\UP_Bluetooth.pdb
+C:\Users\DELL\source\repos\UP_Bluetooth\UP_Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\DELL\source\repos\UP_Bluetooth\UP_Bluetooth\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\DELL\source\repos\UP_Bluetooth\UP_Bluetooth\obj\Debug\UP_Bluetooth.csproj.CopyComplete
+C:\Users\DELL\source\repos\UP_Bluetooth\UP_Bluetooth\obj\Debug\UP_Bluetooth.ChooseAdapter.resources
+C:\Users\DELL\source\repos\UP_Bluetooth\UP_Bluetooth\obj\Debug\UP_Bluetooth.ChooseDevice.resources
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Bluetooth\UP_Bluetooth\UP_Bluetooth\bin\Debug\UP_Bluetooth.exe.config
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Bluetooth\UP_Bluetooth\UP_Bluetooth\bin\Debug\UP_Bluetooth.exe
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Bluetooth\UP_Bluetooth\UP_Bluetooth\bin\Debug\UP_Bluetooth.pdb
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Bluetooth\UP_Bluetooth\UP_Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Bluetooth\UP_Bluetooth\UP_Bluetooth\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Bluetooth\UP_Bluetooth\UP_Bluetooth\obj\Debug\UP_Bluetooth.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Bluetooth\UP_Bluetooth\UP_Bluetooth\obj\Debug\UP_Bluetooth.ChooseAdapter.resources
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Bluetooth\UP_Bluetooth\UP_Bluetooth\obj\Debug\UP_Bluetooth.ChooseDevice.resources
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Bluetooth\UP_Bluetooth\UP_Bluetooth\obj\Debug\UP_Bluetooth.Properties.Resources.resources
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Bluetooth\UP_Bluetooth\UP_Bluetooth\obj\Debug\UP_Bluetooth.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Bluetooth\UP_Bluetooth\UP_Bluetooth\obj\Debug\UP_Bluetooth.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Bluetooth\UP_Bluetooth\UP_Bluetooth\obj\Debug\UP_Bluetooth.csproj.CopyComplete
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Bluetooth\UP_Bluetooth\UP_Bluetooth\obj\Debug\UP_Bluetooth.exe
+C:\Users\DELL\Desktop\Politechnika\Semestr 5\Urządzenia peryferyjne\LAB\UP_Bluetooth\UP_Bluetooth\UP_Bluetooth\obj\Debug\UP_Bluetooth.pdb

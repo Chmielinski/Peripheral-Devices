@@ -1,0 +1,26 @@
+C:\Users\Piotr Borowski\source\repos\scanner\scanner\bin\Debug\scanner.exe.config
+C:\Users\Piotr Borowski\source\repos\scanner\scanner\bin\Debug\scanner.exe
+C:\Users\Piotr Borowski\source\repos\scanner\scanner\bin\Debug\scanner.pdb
+C:\Users\Piotr Borowski\source\repos\scanner\scanner\bin\Debug\Interop.WIA.dll
+C:\Users\Piotr Borowski\source\repos\scanner\scanner\obj\Debug\scanner.csprojAssemblyReference.cache
+C:\Users\Piotr Borowski\source\repos\scanner\scanner\obj\Debug\Interop.WIA.dll
+C:\Users\Piotr Borowski\source\repos\scanner\scanner\obj\Debug\scanner.csproj.ResolveComReference.cache
+C:\Users\Piotr Borowski\source\repos\scanner\scanner\obj\Debug\scanner.Form1.resources
+C:\Users\Piotr Borowski\source\repos\scanner\scanner\obj\Debug\scanner.Properties.Resources.resources
+C:\Users\Piotr Borowski\source\repos\scanner\scanner\obj\Debug\scanner.csproj.GenerateResource.cache
+C:\Users\Piotr Borowski\source\repos\scanner\scanner\obj\Debug\scanner.csproj.CoreCompileInputs.cache
+C:\Users\Piotr Borowski\source\repos\scanner\scanner\obj\Debug\scanner.exe
+C:\Users\Piotr Borowski\source\repos\scanner\scanner\obj\Debug\scanner.pdb
+C:\Users\DELL\Downloads\scanner-20181118T105759Z-001\scanner\scanner\bin\Debug\scanner.exe.config
+C:\Users\DELL\Downloads\scanner-20181118T105759Z-001\scanner\scanner\bin\Debug\scanner.exe
+C:\Users\DELL\Downloads\scanner-20181118T105759Z-001\scanner\scanner\bin\Debug\scanner.pdb
+C:\Users\DELL\Downloads\scanner-20181118T105759Z-001\scanner\scanner\bin\Debug\Interop.WIA.dll
+C:\Users\DELL\Downloads\scanner-20181118T105759Z-001\scanner\scanner\obj\Debug\scanner.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\scanner-20181118T105759Z-001\scanner\scanner\obj\Debug\Interop.WIA.dll
+C:\Users\DELL\Downloads\scanner-20181118T105759Z-001\scanner\scanner\obj\Debug\scanner.csproj.ResolveComReference.cache
+C:\Users\DELL\Downloads\scanner-20181118T105759Z-001\scanner\scanner\obj\Debug\scanner.Form1.resources
+C:\Users\DELL\Downloads\scanner-20181118T105759Z-001\scanner\scanner\obj\Debug\scanner.Properties.Resources.resources
+C:\Users\DELL\Downloads\scanner-20181118T105759Z-001\scanner\scanner\obj\Debug\scanner.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\scanner-20181118T105759Z-001\scanner\scanner\obj\Debug\scanner.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\scanner-20181118T105759Z-001\scanner\scanner\obj\Debug\scanner.exe
+C:\Users\DELL\Downloads\scanner-20181118T105759Z-001\scanner\scanner\obj\Debug\scanner.pdb
